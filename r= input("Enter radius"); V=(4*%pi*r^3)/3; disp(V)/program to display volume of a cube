@@ -1,0 +1,5 @@
+r= input("Enter radius");
+V=(4*%pi*r^3)/3;
+disp(V)
+
+//scilab program to display volume of a cube
